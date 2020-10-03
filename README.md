@@ -1,8 +1,18 @@
 # Safari_Training
 
 # SWE
+## Introduction to Golang
+
+## Practical Go Modules
+* Date: May 9, 2020
+* Author: Benjamin Muschko 
+* Keyword:
 
 # Cloud
+## Serverless Go
+* Date: May 13, 2020
+* Author: Johnny Boursiquot
+* Keyword: AWS, Serverless, Step functions, Lambda
 
 # Data
 ## Building Data Pipelines with Cassandra, Kafka, and Spark
