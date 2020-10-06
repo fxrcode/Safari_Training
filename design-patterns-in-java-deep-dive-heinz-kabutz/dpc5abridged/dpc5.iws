@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="47868903-9011-487d-bd86-3633e3dc2cce" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>this.getClass().getPackage() + &quot;.</find>
+      <find>Class.forn</find>
+      <find>Class.forName</find>
+      <find>findClass(&quot;</find>
+      <find>Class.for</find>
+      <find>proxy.</find>
+      <find>Class.fo</find>
+      <find>Illegal</find>
+      <find>IllegalS</find>
+      <find>IllegalState</find>
+      <find>LinkedList</find>
+      <find>forName</find>
+      <find>accept</find>
+      <find>getClas</find>
+      <find>Statistics</find>
+      <find>Trader</find>
+      <find>Math.random</find>
+      <find>solution2</find>
+      <find>close</find>
+      <find>printf(</find>
+      <find>(</find>
+      <find>printStackTrace</find>
+      <find>callable</find>
+      <find>LinkedHash</find>
+      <find>HashSet</find>
+      <find>remove</find>
+      <find>SubList</find>
+      <find>ArrayList.this.remo</find>
+      <find>cast</find>
+      <find>fastea</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>IntArrayDeque</replace>
+      <replace>Integer</replace>
+      <replace>clazz.getConstructor().newInstance</replace>
+      <replace>IntCollection</replace>
+      <replace>this.getClass().getPackage() + &quot;.</replace>
+      <replace>ArrayList</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/exercises/src/abstractclass/exercise1</dir>
+      <dir>$PROJECT_DIR$/src/iterator</dir>
+      <dir>$PROJECT_DIR$/src</dir>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="ProjectId" id="1RsPL3tymShVvQgzsWdSkd7tsST" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="arraylist&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk-10.jdk/Contents/Home/lib/src.zip!/java.base/java/util/ArrayList.java&#10;ArrayList&#9;FILE&#9;jrt:///Library/Java/JavaVirtualMachines/jdk-10.jdk/Contents/Home!/java.base/java/util/ArrayList.class&#10;FieldAccessor&#9;PSI&#9;JAVA://jdk.internal.reflect.FieldAccessor&#10;Stock&#9;PSI&#9;JAVA://observer.exercise1.StockTicker&#10;Memo&#9;PSI&#9;JAVA://flyweight.exercise1.MemorySavingNumberFactory&#10;Copyrigh&#9;ACTION&#9;GenerateCopyright" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550082427855" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/dpc5/src/chainofresponsibility" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/dpc5.ipr" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="aJava 8 Migrate" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="interpreter.exercise1" />
+      <recent name="math" />
+      <recent name="visitor.solution1" />
+      <recent name="templatemethod.solution1" />
+      <recent name="strategy.solution1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/chainofresponsibility/solution1b" />
+      <recent name="$PROJECT_DIR$/src/strategy/exercise2" />
+      <recent name="$PROJECT_DIR$/src/observer/test" />
+      <recent name="$PROJECT_DIR$/src/interpreter/solution1" />
+      <recent name="$PROJECT_DIR$/src/interpreter/exercise1" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="proxy.solution1" />
+      <recent name="defaultvisitor.solution1" />
+      <recent name="adapter" />
+      <recent name="abstractfactory" />
+      <recent name="nullobject.exercise1" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="util" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MementoTest (1)">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MementoTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dpc5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="memento.exercise2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="memento.exercise2" />
+      <option name="MAIN_CLASS_NAME" value="memento.exercise2.MementoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MementoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dpc5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="memento.solution2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="memento.solution2" />
+      <option name="MAIN_CLASS_NAME" value="memento.solution2.MementoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObserverTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dpc5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="observer.exercise1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="observer.exercise1" />
+      <option name="MAIN_CLASS_NAME" value="observer.exercise1.ObserverTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Singleton3Test (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dpc5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="singleton.exercise3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="singleton.exercise3" />
+      <option name="MAIN_CLASS_NAME" value="singleton.exercise3.Singleton3Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Singleton3Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dpc5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="singleton.solution3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="singleton.solution3" />
+      <option name="MAIN_CLASS_NAME" value="singleton.solution3.Singleton3Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.ObserverTest" />
+      <item itemvalue="JUnit.Singleton3Test" />
+      <item itemvalue="JUnit.Singleton3Test (1)" />
+      <item itemvalue="JUnit.MementoTest" />
+      <item itemvalue="JUnit.MementoTest (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MementoTest (1)" />
+        <item itemvalue="JUnit.MementoTest" />
+        <item itemvalue="JUnit.Singleton3Test (1)" />
+        <item itemvalue="JUnit.Singleton3Test" />
+        <item itemvalue="JUnit.ObserverTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR,SHOW_NON_PUBLIC" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47868903-9011-487d-bd86-3633e3dc2cce" name="Default" comment="" />
+      <created>1518251737242</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1518251737242</updated>
+      <workItem from="1518251740691" duration="1867000" />
+      <workItem from="1518286157388" duration="2273000" />
+      <workItem from="1518436105975" duration="23893000" />
+      <workItem from="1518611269110" duration="490000" />
+      <workItem from="1518676181470" duration="625000" />
+      <workItem from="1518780658577" duration="624000" />
+      <workItem from="1523298905599" duration="1781000" />
+      <workItem from="1524490177696" duration="1438000" />
+      <workItem from="1524499965646" duration="5634000" />
+      <workItem from="1524558384637" duration="5951000" />
+      <workItem from="1524888342481" duration="2521000" />
+      <workItem from="1524891734944" duration="3788000" />
+      <workItem from="1526109016101" duration="2819000" />
+      <workItem from="1526280337966" duration="2439000" />
+      <workItem from="1526303904874" duration="1814000" />
+      <workItem from="1526366486683" duration="168000" />
+      <workItem from="1526370019999" duration="1000" />
+      <workItem from="1526370384772" duration="43000" />
+      <workItem from="1526371292464" duration="910000" />
+      <workItem from="1526374225431" duration="383000" />
+      <workItem from="1526374624716" duration="599000" />
+      <workItem from="1526382473574" duration="1386000" />
+      <workItem from="1526390837169" duration="6652000" />
+      <workItem from="1526441899725" duration="3353000" />
+      <workItem from="1526446171784" duration="4957000" />
+      <workItem from="1526457202469" duration="2327000" />
+      <workItem from="1526473270852" duration="51000" />
+      <workItem from="1526475931956" duration="1451000" />
+      <workItem from="1526478102016" duration="10822000" />
+      <workItem from="1526546048275" duration="653000" />
+      <workItem from="1526562758095" duration="373000" />
+      <workItem from="1527235177282" duration="744000" />
+      <workItem from="1527361122580" duration="67000" />
+      <workItem from="1528281343285" duration="772000" />
+      <workItem from="1528456789241" duration="37000" />
+      <workItem from="1528457190701" duration="736000" />
+      <workItem from="1528461648883" duration="3198000" />
+      <workItem from="1528479067111" duration="266000" />
+      <workItem from="1529222761073" duration="3629000" />
+      <workItem from="1529733176982" duration="5000" />
+      <workItem from="1529733225830" duration="159000" />
+      <workItem from="1530708508881" duration="96000" />
+      <workItem from="1531746324283" duration="463000" />
+      <workItem from="1531898910547" duration="605000" />
+      <workItem from="1533109528411" duration="1066000" />
+      <workItem from="1533133660864" duration="344000" />
+      <workItem from="1536683941668" duration="538000" />
+      <workItem from="1536685112805" duration="365000" />
+      <workItem from="1536734972483" duration="34000" />
+      <workItem from="1539990241332" duration="1315000" />
+      <workItem from="1540130917642" duration="1161000" />
+      <workItem from="1541432926382" duration="154000" />
+      <workItem from="1547231516797" duration="85000" />
+      <workItem from="1550078530666" duration="464000" />
+      <workItem from="1550082031896" duration="421000" />
+      <workItem from="1570452772183" duration="263000" />
+      <workItem from="1570681873531" duration="228000" />
+      <workItem from="1584781735028" duration="580000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="458" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584782052178">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="458" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.877@0.23.1440.877" timestamp="1584782052178" />
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1584781740237">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1584781740237" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/abstractfactory/solution1/AbstractFactoryTest.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>virtualLutefiskClass.get()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>virtualLutefiskClass.getGenericInfo()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>virtualLutefiskClass.isSynthetic()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="Copyright.UI">
+        <settings>
+          <last-edited>dpc</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>dpc5</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>org.jpatterns:jpatterns:0.0.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

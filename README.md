@@ -5,7 +5,7 @@
 
 ## Practical Go Modules
 * Date: May 9, 2020
-* Author: Benjamin Muschko 
+* Author: Benjamin Muschko
 * Keyword:
 
 # Cloud
@@ -25,3 +25,8 @@
 * Date: Sep 9, 2020
 * Author: Mofi Rahman
 * Keyword:
+
+
+# Misc
+* design-patterns-in-java
+* HeadFirstSQL (https://github.com/RobertKalo/HeadFirstSQL.git)
